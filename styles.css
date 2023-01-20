@@ -1,0 +1,67 @@
+.navLinks {
+    font-size: 2rem !important;
+    color: aqua;
+}
+
+#navArea {
+    background-color: rgb(0, 59, 209);
+}
+
+.toggleBtn {
+    color: aqua;
+    background-color: aqua;
+}
+
+#main {
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: serif;
+    font-weight: bold;
+    
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+#footer {
+    
+    background-color: black;
+    color: white;
+  
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:black;
+        color: white;
+        text-align: center;
+    
+    
+}
+
+#reflection, #bio {
+    margin: 30px;
+    border: solid 3px blue;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+.lifeguardIMG {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+p {
+    margin-top: 30px;
+}
+
+.btn {
+    margin-top: 30px;
+}
+.mention {
+    text-align: center;
+}
